@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { io } from "socket.io-client";
-import songs from "../mockSongs"; // ⬅ ייבוא ישיר של כל השירים
+import songs from "../mockSongs.json"; // ⬅ ייבוא ישיר של כל השירים
 
 const socket = io("http://localhost:3001");
 
