@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Hello",
+    "artist": "Adele",
+    "lyrics": " Hello, it's me\nI was wondering if after all these years\nYou'd like to meet, to go over everything\nThey say that time's supposed to heal ya\nBut I ain't done much",
+    "chords": "G Em C F",
+    "image": "/images/hello.jpeg"
+  },
+  {
+    "title": "perfect",
+    "artist": "Ed shiran",
+    "lyrics": "I found a love for me\nOh, darling, just dive right in and follow my lead\nWell, I found a girl, beautiful and sweet\nOh, I never knew",
+    "chords": "G Em C F",
+    "image": "/images/perfect.jpeg"
+  },
+  {
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "lyrics": "Imagine there's no heaven...",
+    "chords": "C Cmaj7 F",
+    "image": "/images/imagine.jpeg"
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "Leonard Cohen",
+    "image": "/images/halleluja.jpeg",
+    "lyrics": "Now I've heard there was a secret chord\nThat David played and it pleased the Lord\nBut you don't really care for music",
+    "chords": "F  C  C7  Bb"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "image": "/images/someone like you.jpeg",
+    "lyrics": "I heard that you're settled down\nThat you found a girl and you're married now...",
+    "chords": "A  E  F#m  D"
+  },
+  {
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "image": "/images/wonderwall.jpeg",
+    "lyrics": "Today is gonna be the day\nThat they're gonna throw it back to you...",
+    "chords": "Em7  G  Dsus4  A7sus4"
+  },
+  {
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "image": "/images/shakeit of.jpeg",
+    "lyrics": "I stay out too late, got nothing in my brain\nThat's what people say...",
+    "chords": "G  D  Em  C"
+  }
+]
+
+

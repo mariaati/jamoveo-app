@@ -1,0 +1,62 @@
+[
+  {
+    "username": "shelil",
+    "password": "123456",
+    "instrument": "admin"
+  },
+  {
+    "username": "rein12",
+    "password": "12345",
+    "instrument": "admin"
+  },
+  {
+    "username": "shalom",
+    "password": "12345",
+    "instrument": "vocals"
+  },
+  {
+    "username": "moshe",
+    "password": "123456",
+    "instrument": "admin"
+  },
+  {
+    "username": "hadar123",
+    "password": "23456",
+    "instrument": "admin"
+  },
+  {
+    "username": "alon12",
+    "password": "123456",
+    "instrument": "admin"
+  },
+  {
+    "username": "mariaati",
+    "password": "123456",
+    "instrument": "guitar"
+  },
+  {
+    "username": "mishela",
+    "password": "1234567",
+    "instrument": "vocals"
+  },
+  {
+    "username": "mari23",
+    "password": "12334567",
+    "instrument": "admin"
+  },
+  {
+    "username": "shalev12",
+    "password": "12345678",
+    "instrument": "admin"
+  },
+  {
+    "username": "georgena",
+    "password": "123456",
+    "instrument": "vocals"
+  },
+  {
+    "username": "noelat",
+    "password": "12345",
+    "instrument": "guitar"
+  }
+]
