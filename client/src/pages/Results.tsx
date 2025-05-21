@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { io } from "socket.io-client";
-import songs from "../mockSongs";
+import songs from "../mockSongs.json";
 import studioBg from "../assets/login.png"; // use same background image
 
 const socket = io("http://localhost:3001");

@@ -21,6 +21,7 @@ JaMoveo is a full-stack web application that enables musicians to collaborate an
 - State: LocalStorage and WebSocket events
 - Deployment: Vercel (frontend), Railway/Render (backend optional)
 
+
 ## Getting Started
 
 ### 1. Clone the repository
