@@ -22,7 +22,7 @@ const Login = () => {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
 
-    fetch("http://localhost:3001/api/login", {
+    fetch("https://jamoveo-server-ftf8.onrender.com", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(form),
