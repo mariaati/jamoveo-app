@@ -32,7 +32,7 @@ const Signup = () => {
       return;
     }
 
-    fetch("http://localhost:3001/api/signup", {
+    fetch("https://jamoveo-server-ftf8.onrender.com/api/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
