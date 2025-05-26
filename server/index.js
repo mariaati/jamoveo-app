@@ -9,12 +9,16 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "*",
+    origin: "https://jamoveoclient.netlify.app",
     methods: ["GET", "POST"],
+    credentials: true
   },
 });
-
-app.use(cors());
+app.use(cors({
+  origin: "https://jamoveoclient.netlify.app",
+  methods: ["GET", "POST"],
+  credentials: true
+}));
 app.use(express.json());
 
 // 🔹 נתיב הקובץ שבו נשמרים המשתמשים

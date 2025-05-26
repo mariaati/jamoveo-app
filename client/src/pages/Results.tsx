@@ -4,7 +4,8 @@ import { io } from "socket.io-client";
 import songs from "../mockSongs.json";
 import studioBg from "../assets/login.png"; // use same background image
 
-const socket = io("http://localhost:3001");
+const socket = io("https://jamoveo-server-ftf8.onrender.com");
+
 
 type Song = {
   title: string;
